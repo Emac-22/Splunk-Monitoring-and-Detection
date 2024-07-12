@@ -19,10 +19,6 @@ The objective of this lab was to practice using Splunk to monitor a web applicat
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Network Diagram*
