@@ -20,5 +20,10 @@ The objective of this lab was to practice using Splunk to monitor a web applicat
 
 ## Steps
 
-
+- Uploading and indexing data in Splunk.
+- Performing keyword and field-based searches using Splunk Processing Language (SPL).
+- Creating and sharing reports.
+- Visualizing data with charts and graphs.
+- Building dashboards for data analysis.
+- Setting up alerts to monitor specific events
 *Ref 1: Network Diagram*
